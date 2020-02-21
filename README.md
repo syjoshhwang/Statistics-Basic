@@ -1,1 +1,1 @@
-# Statistic-Basic
+# Statistics-Basic
